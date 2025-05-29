@@ -5,10 +5,11 @@
       <p>Aspiring Data Analyst | Ex-Athlete | Lifelong Learner</p>
     </td>
     <td>
-      <img src="https://example.com/illustration.jpg" alt="Professional Illustration" width="120" height="120" style="border-radius: 50%;">
+      <img src="https://static.vecteezy.com/system/resources/previews/006/061/551/original/young-professional-using-laptop-template-free-vector.jpg" alt="Professional Illustration" width="120" height="120" style="border-radius: 50%;">
     </td>
   </tr>
 </table>
+
 
 
 

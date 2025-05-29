@@ -5,10 +5,11 @@
       <p>Aspiring Data Analyst | Ex-Athlete | Lifelong Learner</p>
     </td>
     <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/921/921347.png" alt="Tech-savvy illustration" width="100" height="100">
+      <img src="IMAGE_URL_HERE" alt="25-year-old Indian professional working on PC" width="120" height="120" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
+
 
 
 

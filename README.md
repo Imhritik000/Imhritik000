@@ -17,24 +17,26 @@ Just like sports, data demands discipline, strategy, and sharp insights. My back
 - 🐼 **Pandas** – data cleaning and manipulation
 - 📈 **Matplotlib & Seaborn** – visual storytelling with data
 - 📊 **Excel** – from basics to advanced dashboards
+
 ### 🛠️ Current Tech Stack
 
 <p align="left">
-  <!-- Power BI (custom logo) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  
-  <!-- SQL (MySQL icon) -->
+  <sub><br>Power BI</sub>&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  
-  <!-- Excel (Microsoft icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/>
-  
-  <!-- Python -->
+  <sub><br>SQL</sub>&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  <sub><br>Excel</sub>&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
-  <!-- Pandas -->
+  <sub><br>Python</sub>&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <sub><br>Pandas</sub>
 </p>
+
 
 ## 🚧 Ongoing Projects
 

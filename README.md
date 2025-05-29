@@ -1,19 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <h3>👋 Hey there, I'm Hritik Choudhary — Welcome to my GitHub!</h3>
-      <p>Aspiring Data Analyst | Ex-Athlete | Lifelong Learner</p>
-    </td>
-    <td>
-      <img src="IMAGE_URL_HERE" alt="25-year-old Indian professional working on PC" width="120" height="120" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+ 👋 Hey there, I'm Hritik Choudhary — Welcome to my GitHub!
 
-
-
-
-
+---
 
 ## 🧠 Who Am I?
 

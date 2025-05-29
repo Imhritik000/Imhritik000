@@ -40,6 +40,8 @@ Just like sports, data demands discipline, strategy, and sharp insights. My back
 
 > "Discipline from sports. Insight from data. My path to upgrade has just begun."
 
+---
+
 📬 Let's connect:  
 • LinkedIn- https://www.linkedin.com/in/hritik-choudhary-234755283/ 
 • Email -Hritikch000@gmail.com

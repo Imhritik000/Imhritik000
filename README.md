@@ -5,7 +5,7 @@
       <p>Aspiring Data Analyst | Ex-Athlete | Lifelong Learner</p>
     </td>
     <td>
-      <img src="https://static.vecteezy.com/system/resources/previews/006/061/551/original/young-professional-using-laptop-template-free-vector.jpg" alt="Professional Illustration" width="120" height="120" style="border-radius: 50%;">
+      <img src="https://cdn-icons-png.flaticon.com/512/921/921347.png" alt="Tech-savvy illustration" width="100" height="100">
     </td>
   </tr>
 </table>

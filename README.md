@@ -1,14 +1,15 @@
-# <table>
+<table>
   <tr>
     <td>
       <h3>👋 Hey there, I'm Hritik Choudhary — Welcome to my GitHub!</h3>
       <p>Aspiring Data Analyst | Ex-Athlete | Lifelong Learner</p>
     </td>
     <td>
-      <img src="https://your-image-url-here.jpg" alt="Hritik Choudhary" width="120" height="120" style="border-radius: 50%;">
+      <img src="https://example.com/illustration.jpg" alt="Professional Illustration" width="120" height="120" style="border-radius: 50%;">
     </td>
   </tr>
 </table>
+
 
 
 ## 🧠 Who Am I?

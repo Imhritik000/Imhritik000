@@ -34,7 +34,5 @@ Just like sports, data demands discipline, strategy, and sharp insights. My back
 ---
 
 📬 Let's connect:  
-• LinkedIn- https://www.linkedin.com/in/hritik-choudhary-234755283/ 
-• Email -Hritikch000@gmail.com
 <a href="mailto:Hritikch000@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
 <a href="https://www.linkedin.com/in/hritik-choudhary-234755283/" target="_blank"><i class="fab fa-linkedin"></i></a>

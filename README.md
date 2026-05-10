@@ -1,26 +1,27 @@
 # Hi, I'm Hritik 👋
 
-Associate Analyst with hands-on experience in Data Analysis, MIS Reporting, and Dashboard Development. I work with data to generate insights that support business decision-making.
+Associate Analyst with hands-on experience in Data Analysis, MIS Reporting, and Dashboard Development.
 
 ---
 
 ## 🔧 Skills
 
-**Data & Analytics:**
+### 📊 Data & Analytics
 
-* Advanced Excel (Pivot Tables, XLOOKUP, INDEX-MATCH, Power Query, SUMIFS)
-* Power BI (Dashboard Development, Data Visualization)
-* SQL (Basic Queries, Joins)
+<p align="left">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/sql.png" height="50"/>
+</p>
 
-**Other:**
+### ⚙️ Tools & Techniques
 
-* Data Cleaning & Transformation
-* MIS Reporting & KPI Analysis
-* Dashboard Design & Reporting
-
----  
-## Favorite Tools
-https://img.icons8.com/color/96/microsoft-excel-2019.png
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/filter.png" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/data-configuration.png" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/report-card.png" height="50"/>
+</p>
 
 ---
 
@@ -55,9 +56,15 @@ https://img.icons8.com/color/96/microsoft-excel-2019.png
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://linkedin.com/in/your-link
-* GitHub: https://github.com/your-username
+<p align="left">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
+  </a>
+</p>
 
 ---
 
-⭐ I’m currently looking for opportunities in Data Analytics / MIS Reporting where I can contribute and grow in a data-driven environment.
+⭐ Open to opportunities in Data Analytics / MIS Reporting

@@ -1,4 +1,4 @@
-# Hi, I'm Hritik 👋
+# Hi, I'm Hritik
 
 Associate Analyst with hands-on experience in Data Analysis, MIS Reporting, and Dashboard Development.
 

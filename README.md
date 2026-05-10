@@ -6,7 +6,21 @@ Associate Analyst with hands-on experience in Data Analysis, MIS Reporting, and 
 
 ## 🔧 Skills
 
-### 📊 Data & Analytics
+Data & Analytics:
+
+* Advanced Excel (Pivot Tables, XLOOKUP, INDEX-MATCH, Power Query, SUMIFS)
+* Power BI (Dashboard Development, Data Visualization)
+* SQL (Basic Queries, Joins)
+
+Other:
+
+* Data Cleaning & Transformation
+* MIS Reporting & KPI Analysis
+* Dashboard Design & Reporting
+
+---
+
+### ⚙️ Favorite Tools
 
 <p align="left">
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="50"/>
@@ -14,14 +28,6 @@ Associate Analyst with hands-on experience in Data Analysis, MIS Reporting, and 
   <img src="https://img.icons8.com/color/96/sql.png" height="50"/>
 </p>
 
-### ⚙️ Tools & Techniques
-
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/combo-chart.png" height="50"/>
-  <img src="https://img.icons8.com/fluency/48/filter.png" height="50"/>
-  <img src="https://img.icons8.com/fluency/48/data-configuration.png" height="50"/>
-  <img src="https://img.icons8.com/fluency/48/report-card.png" height="50"/>
-</p>
 
 ---
 
@@ -57,14 +63,17 @@ Associate Analyst with hands-on experience in Data Analysis, MIS Reporting, and 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
+  </a>
+  <a href="mailto:hritikch000@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
 </p>
 
+
 ---
 
-⭐ Open to opportunities in Data Analytics / MIS Reporting

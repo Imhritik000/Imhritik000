@@ -20,32 +20,6 @@ Associate Analyst with hands-on experience in Data Analysis, MIS Reporting, and 
 
 ---
 
-## 📊 Projects
-
-### 📁 FnP Sales Analysis (Excel)
-
-* Built an interactive dashboard to track revenue, orders, and customer trends
-* Identified top-performing products, high-revenue cities, and peak sales days
-* Used Pivot Tables, Slicers, and Charts for dynamic reporting
-
----
-
-### 📁 Ola Ride Data Analysis (Power BI)
-
-* Analyzed 10,000+ ride records to identify booking and payment trends
-* Found 18% ride cancellation rate and key contributing factors
-* Created dashboards to visualize ride volume and customer behavior
-
----
-
-### 📁 ABC Store Sales Analysis (Excel)
-
-* Analyzed customer demographics and identified that 65% of purchases were made by women
-* Identified Maharashtra, Karnataka, and Uttar Pradesh as top-performing states
-* Built dashboards using Pivot Tables, Charts, and Data Cleaning techniques
-
----
-
 ## 📈 Experience
 
 **Associate Analyst | Massist CRM**

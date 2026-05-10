@@ -18,6 +18,10 @@ Associate Analyst with hands-on experience in Data Analysis, MIS Reporting, and 
 * MIS Reporting & KPI Analysis
 * Dashboard Design & Reporting
 
+---  
+## Favorite Tools
+https://img.icons8.com/color/96/microsoft-excel-2019.png
+
 ---
 
 ## 📈 Experience
